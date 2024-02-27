@@ -1,0 +1,29 @@
+.section {
+  padding: 100px 0;
+}
+.reviews {
+  background: lightgreen;
+}
+.container {
+  width: 80%;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+.reviews-title {
+  font-size: 32px;
+  color: white;
+}
+.reviews-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.reviews-item {
+  width: calc((100% - 30px * 2) / 3);
+}
+.reviews-avatar {
+  display: block;
+  margin: 0 auto;
+}
+.reviews-text {
+}
