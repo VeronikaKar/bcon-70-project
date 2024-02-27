@@ -1,8 +1,9 @@
 .section {
   padding: 100px 0;
+  background-image: url('../img/vite-logo.png');
 }
 .reviews {
-  background: lightgreen;
+  background-color: lightgreen;
 }
 .container {
   width: 80%;

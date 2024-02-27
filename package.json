@@ -1,5 +1,5 @@
 {
-  "name": "vanilla-app-template",
+  "name": "bcon-70-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,7 +7,7 @@
   "license": "ISC",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vanilla-app-template/",
+    "build": "vite build --base=/bcon-70-project/",
     "preview": "vite preview"
   },
   "devDependencies": {
